@@ -5,8 +5,8 @@ import Shows from './components/Shows/Shows'
 import Offline from './components/Offline/Offline'
 import Watch from './components/Watch/Watch'
 import Kids from './components/Kids/Kids'
-import Questions from './components/Questions/Questions'
 import Footer from './components/Footer/Footer'
+import Accodian from './components/Accordian/Accordian'
 
 export default function App() {
   return (
@@ -17,7 +17,7 @@ export default function App() {
       <Offline />
       <Watch />
       <Kids />
-      <Questions />
+      <Accodian />
       <Footer />
     </>
   )
