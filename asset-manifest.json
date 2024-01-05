@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MuhammedSafvanMP/netflix_signIn_Page/static/css/main.32f0538e.css",
+    "main.js": "/MuhammedSafvanMP/netflix_signIn_Page/static/js/main.6a935cb0.js",
+    "static/media/header-image.png": "/MuhammedSafvanMP/netflix_signIn_Page/static/media/header-image.d70b0bbb20753fb4bbe5.png",
+    "index.html": "/MuhammedSafvanMP/netflix_signIn_Page/index.html",
+    "main.32f0538e.css.map": "/MuhammedSafvanMP/netflix_signIn_Page/static/css/main.32f0538e.css.map",
+    "main.6a935cb0.js.map": "/MuhammedSafvanMP/netflix_signIn_Page/static/js/main.6a935cb0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32f0538e.css",
+    "static/js/main.6a935cb0.js"
+  ]
+}
